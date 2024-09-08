@@ -1,0 +1,4 @@
+enum InternetConnectionState{
+  online,
+  offline,
+}
