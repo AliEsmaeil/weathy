@@ -1,5 +1,4 @@
-![weathy-icon.png](screenshots%2Fweathy-icon.png)
-
+![updated-weathy-icon.png](screenshots%2Fupdated-weathy-icon.png)
 # weathy
 Weathy is a mobile application that provides real-time weather updates, including current conditions, tomorrow’s forecast, and a 10-day outlook. It also features upcoming football matches for your location and a 10-month weather forecast, allowing you to stay informed and plan ahead with ease.
 
