@@ -93,7 +93,7 @@ you could see screenshots singularly, just go to [screenshots](screenshots) dir.
 
 >For more, watch the following video that demonstrate a walkthrough features of *weathy*:
 >
->[Video Preview]()
+>[Video Preview](https://www.youtube.com/watch?v=pLG6YFbE4Eg)
 
 ### How to install
 
